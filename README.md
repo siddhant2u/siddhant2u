@@ -1,7 +1,5 @@
-### <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> Hi there
-**This is Siddhant Priyadarshi**
-
-[![MasterHead](https://drive.google.com/drive/u/0/folders/1-149I2Pj-defnqcEJe8JVjTjqudY8MzA)](https://github.com/siddhant2u)
+# <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px" align="center"> Hi there
+## **This is Siddhant Priyadarshi**
 <!--
 **siddhant2u/siddhant2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
