@@ -1,6 +1,5 @@
-### Hi there 👋 This is Siddhant Priyadarshi
-
-#<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Himanshu Singh
+### <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> Hi there
+**This is Siddhant Priyadarshi**
 <!--
 **siddhant2u/siddhant2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
