@@ -1,4 +1,4 @@
-# Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+<h1 align="center"><img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="35px"> Hi, I’m Siddhant Priyadarshi</h1>
 I am Siddhant Priyadarshi currently pursuing my B.Tech in Computer Science from SRMIST
 
 <table>
