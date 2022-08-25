@@ -28,9 +28,17 @@
 
 <details><summary>📊GitHub Stats</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddhant2u&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
+<div align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhant2u&theme=merko&hide_border=false)<br/>
+</div>
+  <div align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddhant2u&icon=5&color=0)](https://visitcount.itsvg.in)
