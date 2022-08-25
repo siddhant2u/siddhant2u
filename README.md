@@ -28,7 +28,7 @@
 
 <details><summary>📊GitHub Stats</summary>
 
-<a href="[link](https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false)" align="center"></a>  
+<a href="https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false" align="center"></a>  
   
 ![](https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhant2u&theme=merko&hide_border=false)<br/>
