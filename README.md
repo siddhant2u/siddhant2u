@@ -14,8 +14,9 @@
 </table>
 </br></br>
 
-<p align="center">I am Siddhant Priyadarshi currently pursuing my B.Tech in Computer Science from SRMIST</p>
-<p align="center">I am a self taught developer and a coder working in Blockchain and Web Development.</p>
+<p align="center">Software Engineer with 1.5 years of experience in developing scalable applications, cloud deployments, and automation.</p>
+<p align="center">Skilled in Java, Python, React, and Kubernetes, with hands-on experience in AWS, Google Cloud, and microservices architecture.</p>
+<p align="center">Passionate about designing efficient systems, optimizing performance, and solving complex technical challenges.</p>
 <p align="center">I am open to collaborate on any projects based on Blockchain Development, Web Development and Software Development.</p>
 
 
