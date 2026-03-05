@@ -1,10 +1,24 @@
-<p align="center" >Hi, <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="20px"></p>
-<h1 align="center">I’m Siddhant Priyadarshi</h1>
 <p align="center">
-  <a href="https://siddhantpriyadarshi.herokuapp.com/" target="_blank">Portfolio</a> -
-  <a href="https://linkedin.com/in/siddhant-priyadarshi" target="_blank">LinkedIn</a>
+  Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="25px">
 </p>
-</br>
+
+<h1 align="center">I'm Siddhant Priyadarshi</h1>
+
+<p align="center">
+  Software Engineer • Agentic AI Developer • AI Systems Builder
+</p>
+
+<p align="center">
+  <a href="https://siddhantpriyadarshi.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/siddhant-priyadarshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Priyadarshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
 
 <table align="center">
   <tr>
@@ -17,36 +31,67 @@
 
 <br><br>
 
-<p align="center">Software Engineer with 2+ years of experience building scalable applications.</p>
-<p align="center">Proficient in Python, Java, and React, with hands-on experience in AI agents, Databricks, cloud platforms, and microservices architecture.</p>
-<p align="center">Currently developing agentic AI systems using LLM frameworks for AI-assisted task automation.</p>
-<p align="center">Passionate about developing scalable technology solutions, exploring new technologies, and solving complex technical challenges.</p>
-<p align="center">I am open to collaborate on any projects based on Agentic AI, Blockchain Development, Web Development and Software Development.</p>
+## 👨‍💻 About Me
 
+Software Engineer with **2+ years of experience** building scalable applications and distributed systems.
 
-</br></br>
+- 🚀 Currently building **Agentic AI systems** using LLM frameworks  
+- 🧠 Working on **AI-powered data platforms using Databricks**  
+- 💻 Experienced in **Python, Java, React, and microservices architecture**  
+- ☁️ Hands-on with **cloud platforms and scalable backend systems**  
+- 🔍 Passionate about **AI automation, intelligent systems, and solving complex engineering problems**
 
-# 💻Tech Stack
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat&logo=openai&logoColor=white)
+💡 Open to collaborating on projects related to **Agentic AI, AI Applications, Web Development, and Blockchain.**
+
+## 🧠 Current Focus
+
+- Agentic AI Systems  
+- LLM Application Development  
+- AI Agents with Google ADK  
+- AI-powered data platforms with Databricks
+
+# 💻 Tech Stack
+
+### Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-</br></br>
+
+### AI & Data
+
+![Agentic
+AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat)
+![Google
+ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google
+Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 
 <details><summary>📊GitHub Stats</summary>
 
@@ -63,3 +108,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=siddhant2u&icon=5&color=0)](https://visitcount.itsvg.in)
 </details>
+
+⭐️ From [Siddhant Priyadarshi](https://github.com/siddhant2u)
