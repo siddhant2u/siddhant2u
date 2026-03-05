@@ -6,9 +6,16 @@
 </p>
 </br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshusingh335&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=himanshusingh335&label=&color=0e75b6&style=flat" height="30"/>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <p align="center">Software Engineer with 2+ years of experience building scalable applications.</p>
 <p align="center">Proficient in Python, Java, and React, with hands-on experience in AI agents, Databricks, cloud platforms, and microservices architecture.</p>
