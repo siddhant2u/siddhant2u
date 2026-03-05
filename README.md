@@ -91,6 +91,39 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat\&logo=metamask\&logoColor=white)
 ![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=flat\&logo=truffle\&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🤖 Drop Merge Report Analysis
+
+Built a **multi-agent AI system using Google ADK** to retrieve and analyze drop-merge reports across different scenarios.
+The system automatically **classifies merge operations as successful or failed**, improving report analysis efficiency.
+
+---
+
+### 📦 Inventory Management System
+
+🔗 *(Add repo link here)*
+
+Developed a **full-stack inventory management application** using **HTML, CSS, JavaScript, and SQL**.
+The system manages **inventory, stock levels, product quantities, and sales operations** within a warehouse.
+
+---
+
+### ⛓ DApp Token Farm
+
+🔗 *(Add repo link here)*
+
+Built a **decentralized staking application** using **React and Solidity** where users can stake cryptocurrency and **earn interest on their holdings**.
+
+---
+
+### 🌐 Personal Portfolio Website
+
+🔗 *(Add repo link here)*
+
+Designed and developed a **personal portfolio website using React** to showcase projects, technical skills, and professional experience.
+
+
 <details><summary>📊GitHub Stats</summary>
 
 </br>  
