@@ -10,9 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=himanshusingh335&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<br><br>
-</br></br>
-
 <p align="center">Software Engineer with 2+ years of experience building scalable applications.</p>
 <p align="center">Proficient in Python, Java, and React, with hands-on experience in AI agents, Databricks, cloud platforms, and microservices architecture.</p>
 <p align="center">Currently developing agentic AI systems using LLM frameworks for AI-assisted task automation.</p>
