@@ -45,7 +45,7 @@ Software Engineer with **2+ years of experience** building scalable applications
 - AI Agents with Google ADK  
 - AI-powered data platforms with Databricks
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
