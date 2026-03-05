@@ -6,12 +6,11 @@
 </p>
 </br>
 
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/himanshusingh335/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshusingh335&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<br><br>
 </br></br>
 
 <p align="center">Software Engineer with 2+ years of experience building scalable applications.</p>
