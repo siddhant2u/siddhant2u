@@ -5,7 +5,7 @@
 <h1 align="center">I'm Siddhant Priyadarshi</h1>
 
 <p align="center">
-  Software Engineer • Agentic AI Developer • AI Systems Builder
+  Software Engineer • Agentic AI Developer • Web Developer
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <tr>
     <td>You are visitor</td>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=himanshusingh335&label=&color=0e75b6&style=flat" height="30"/>
+      <img src="https://komarev.com/ghpvc/?username=siddhant2u&label=&color=0e75b6&style=flat" height="30"/>
     </td>
   </tr>
 </table>
@@ -134,10 +134,8 @@ Designed and developed a **personal portfolio website using React** to showcase 
 -->
 </br>
 
+## 🐍 Contribution Snake
 
-
----
-[![](https://visitcount.itsvg.in/api?id=siddhant2u&icon=5&color=0)](https://visitcount.itsvg.in)
-</details>
+![snake gif](https://github.com/siddhant2u/siddhant2u/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [Siddhant Priyadarshi](https://github.com/siddhant2u)
