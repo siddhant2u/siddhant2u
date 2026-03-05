@@ -124,15 +124,12 @@ Built a **decentralized staking application** using **React and Solidity** where
 Designed and developed a **personal portfolio website using React** to showcase projects, technical skills, and professional experience.
 
 
-<details><summary>📊GitHub Stats</summary>
-
+<!--<details><summary>📊GitHub Stats</summary>
 </br>  
 <img src="https://github-readme-stats.vercel.app/api?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false" align="center" width="500">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant2u&theme=merko&hide_border=false" align="center" width="500">
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant2u&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" width="500">
--->
 </br>
+-->
 
 ## 🐍 Contribution Snake
 
