@@ -17,9 +17,6 @@
   </a>
 </p>
 
-<br>
-
-
 <table align="center">
   <tr>
     <td>You are visitor</td>
@@ -28,8 +25,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
 
 ## 👨‍💻 About Me
 
@@ -91,7 +86,10 @@ Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo
 
 ### Blockchain
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat\&logo=solidity\&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat\&logo=truffle\&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat\&logo=metamask\&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=flat\&logo=truffle\&logoColor=white)
 
 <details><summary>📊GitHub Stats</summary>
 
