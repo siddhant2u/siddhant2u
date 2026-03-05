@@ -14,10 +14,11 @@
 </table>
 </br></br>
 
-<p align="center">Software Engineer with 1.5 years of experience in developing scalable applications, cloud deployments, and automation.</p>
-<p align="center">Skilled in Java, Python, React, and Kubernetes, with hands-on experience in AWS, Google Cloud, and microservices architecture.</p>
-<p align="center">Passionate about designing efficient systems, optimizing performance, and solving complex technical challenges.</p>
-<p align="center">I am open to collaborate on any projects based on Blockchain Development, Web Development and Software Development.</p>
+<p align="center">Software Engineer with 2+ years of experience building scalable applications.</p>
+<p align="center">Proficient in Python, Java, and React, with hands-on experience in AI agents, Databricks, cloud platforms, and microservices architecture.</p>
+<p align="center">Currently developing agentic AI systems using LLM frameworks for AI-assisted task automation.</p>
+<p align="center">Passionate about developing scalable technology solutions, exploring new technologies, and solving complex technical challenges.</p>
+<p align="center">I am open to collaborate on any projects based on Agentic AI, Blockchain Development, Web Development and Software Development.</p>
 
 
 </br></br>
