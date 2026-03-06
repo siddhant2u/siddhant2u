@@ -9,11 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://siddhantpriyadarshi.herokuapp.com/" target="_blank">
+  <a href="https://siddhantpriyadarshi.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/siddhant-priyadarshi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Priyadarshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/siddhant-priyadarshi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Priyadarshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:siddhantpriyadarshi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
